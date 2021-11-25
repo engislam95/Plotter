@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Product",
+        "values": [
+            "17\" LCD w/built-in HDTV Tuner",
+            "Mini DV Camcorder with 3.5\" Swivel LCD",
+            "Envoy Ambassador",
+            "Model CD13272 Tricolor Ink Cartridge",
+            "5MP Telephoto Digital Camera",
+            "256MB Memory Card"
+        ]
+    },
+    {
+        "name": "Cost",
+        "values": [
+            584207.400000002,
+            1880407.440000024,
+            7531491.899999776,
+            3861.4400000000046,
+            8910.88,
+            351.76
+        ]
+    }
+]
