@@ -8,6 +8,12 @@
     <li> Each Vuex Action tested using <strong> JEST Unit Test </strong> </li>
 </ul>
 
+### Live 
+
+https://plotter-jet.vercel.app/
+
+
+
 ### Project setup
 
 ```
